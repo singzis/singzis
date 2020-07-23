@@ -1,4 +1,11 @@
-### ✨ HELLO WORLD <img src="https://github.githubassets.com/images/mona-whisper.gif" alt="githubimg" width="30"/>
+### HELLO WORLD <img src="https://github.githubassets.com/images/mona-whisper.gif" alt="githubimg" width="30"/>
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F6DE3A?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F6DE3A&color=%23FFCE5A)
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=Webpack)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 👨‍💻 两年web开发经验  
 👨‍🎓 管理学士学位，主修信息管理与系统  
