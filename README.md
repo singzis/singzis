@@ -1,4 +1,6 @@
-### Hi there 👋
+### HELLO WORLD <img src="https://github.githubassets.com/images/mona-whisper.gif" alt="githubimg" width="30"/>
+
+I'm Singz72.
 
 <!--
 **Singz72/singz72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
