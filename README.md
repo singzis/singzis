@@ -6,13 +6,17 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=Webpack)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Sketch](http://img.shields.io/badge/-sketch-fbaf2a?style=flat-square&logo=sketch&logoColor=ffffff)
 
-👨‍💻 两年web开发经验  
-👨‍🎓 管理学士学位，主修信息管理与系统  
+👨‍💻 努力！
+
+<!--
 🧱 目前在做的个人项目是构建和优化[博客](https://github.com/Singz72/blogsite)  
+-->
 
+<!--
 🌈 欢迎访问[我的博客](http://http://blog.zxingis.com) 
-
+-->
 <!--
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=singz72&show_icons=true)
