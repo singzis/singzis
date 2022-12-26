@@ -7,3 +7,5 @@ I'm zhou
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=Webpack)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=singzis&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singzis&layout=compact)](https://github.com/singzis)
