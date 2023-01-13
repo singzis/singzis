@@ -6,6 +6,7 @@ I'm zhou
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=Webpack)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=singzis&show_icons=true&theme=dracula)
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=singzis&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singzis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ -->
