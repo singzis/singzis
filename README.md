@@ -2,7 +2,7 @@
 
 I'm zhou
 
-I like code
+I love coding
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%232C3A42?style=flat-square&logo=html5&logoColor=000000&labelColor=%23E34F26&color=%23E34F26) 
